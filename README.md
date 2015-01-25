@@ -2,7 +2,7 @@
 Belajaran
 
 Be aware , this is only for educational purpose only .
-This is mine and i build it with blood and sweat .
+This is mine and i built it with blood and sweat .
 
 
 Thanks 
