@@ -1,0 +1,29 @@
+{
+    "product": [
+        {
+            "nama"		: "MotherBoard",
+            "deskripsi" : "Motherboard Canggih",
+			"label"     : "Hardware"
+			"url"       : "1.png",
+        },
+        {
+            "nama"      : "i5 5720",
+            "deskripsi"	: "Processor generasi 5 dengan 8 inti processor",
+			"label"     : "Hardware"
+			"url"       : "1.png",
+        },
+        {
+            "nama"      : "ASUS XII",
+            "deskripsi" : "Dual Channel 1333mb speed",
+			"label"     : "Laptop"
+			"url"       : "1.png",
+        },
+         
+        {
+            "nama"      : "CPU Paket 1",
+            "deskripsi" : "Dengan Processor berkecepatan kuda",
+			"label"     : "Komputer"
+			"url"       : "1.png",
+        }
+    ]
+}

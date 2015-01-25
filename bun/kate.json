@@ -1,0 +1,14 @@
+    {
+        "nama"    : "Firman",
+        "topleft" : "Category",
+        "topright": "Product",
+
+
+        "kategori": 
+        [
+                        {"nama"   : "Killer"},
+                        {"nama"   : "Support"},
+                        {"nama"   : "Defensive"}
+        ]
+
+    }

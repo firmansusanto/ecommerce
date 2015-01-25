@@ -1,0 +1,163 @@
+html
+{
+}
+h1 
+{
+    color: black;
+	text-align: Center;
+	font-size:50px;
+	font-family:fantasy;
+}
+
+div.title
+{
+    padding-top: -200x;
+}
+
+div.welcome
+{
+    border:1px solid #ccc;
+    border-bottom:3px solid #d9ced2;
+    border-right: 3px solid #d9ced2;
+    width: 200px;
+    height: 140px;
+    
+    padding-right: 20px;
+    padding-left: 45px;
+    float: left;
+  
+}
+
+
+.template
+{
+	display:none;
+}
+h2
+{
+	color       : white;
+	font-size   : 13px;
+	font-family : Sans-Serif;
+}
+div.category h3
+{
+    color :black;
+	padding-left:50px;
+	font-family : Sans-Serif;
+    font-size: 25px;
+}
+#buns
+{
+    font-size:20px;
+    margin-bottom: 10px;
+    font-family: serif;
+    color: black;
+}
+#bunss
+{
+    font-size: 15px;
+    font-family: serif;
+    color: black;
+}
+
+#deskripsi
+{
+    font-size: 15px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+{
+	color       : blue;
+	font-family :serif;
+}
+
+div.navigation ul li{
+	float : left;
+	list-style:none;
+	margin: 0px 40px 0px 0px;
+}
+
+a{
+	text-decoration : none;
+ }
+div.navigation 
+{
+padding:0px 0px 50px 0px;
+border:1px solid #ccc;
+border-bottom:2px solid#d9ced2;
+
+margin-top:50px;
+margin-bottom:20px;
+background-color :black;
+}
+
+
+div.category ul li{
+list-style:none;
+}
+a
+{
+text-decoration :none;
+}
+
+div.category
+{
+	padding:0px 150px 150px 0px;
+	float:left;
+	list-style: none;
+	border:1px solid #ccc;
+    border-bottom: 3px solid #d9ced2;
+    border-right: 3px solid #d9ced2;
+	
+}
+a
+{
+text-decoration :none;
+}
+
+div.container{
+	clear:both;
+	
+}
+	
+div.product ul li{
+list-style:none;
+}
+
+a{
+text-decoration :none;
+}
+
+#bun1
+{
+ 	padding-left : 30px;
+	font-size    : 17px;
+}
+
+#bun2
+{
+	float: left;
+	border : 2px solid #ccc;
+	width : 200px;
+	height: 200px;
+	margin-left : 10px;`
+}
+#produk
+{
+	float: left;
+	border : 1px solid #ccc;
+	width : 200px;
+	height: 200px;
+	margin-left : 10px;`
+}
+
+div.product
+{
+border:1px solid #ccc;
+border-bottom:3px solid #d9ced2;
+border-right: 3px solid #d9ced2;
+padding:0px 0px 600px 0px;
+margin-left:350px;
+list-style : none;
+}
