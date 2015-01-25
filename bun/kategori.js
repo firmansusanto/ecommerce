@@ -37,9 +37,9 @@ $(document).ready(function()
 							$("#tampil",cs).text(data.product[j].nama);
                             $(".gambar",cs).attr("src",data.product[j].image);
 							cs=$(cs).clone();
+							$("#buy",cs).attr("onclick","tambahisicart(\""+data.product[j].nama+"\","+data.product[j].harga+",\""+data.product[j].ID+"\",\""+data.product[j].image+"\")");
 						}
-                        $("#buy",cs).attr("onclick","tambahisicart(\""+data.product[j].nama+"\","+data.product[j].harga+",\""+data.product[j].ID+"\",\""+data.product[j].image+"\")");
-				$("#clear").click(function(ID){
+                       	$("#clear").click(function(ID){
 					hapusisicart();
 				});		
 					
